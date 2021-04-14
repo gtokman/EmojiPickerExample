@@ -19,6 +19,7 @@ An emoji picker view made with SwiftUI
 * clone the repo
 * cd to the repo
 * open the `xcodeproj` (`xed .`)
+* build and run
 
 ## Example
 
