@@ -1,4 +1,4 @@
-# EmojiPickerExample
+# Emoji Picker Example
 <a href="https://garytokman.me">
   <img align="left" alt="Gary's Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-2.png" />
 </a>
