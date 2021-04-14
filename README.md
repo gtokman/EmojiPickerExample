@@ -14,7 +14,7 @@
 An emoji picker view made with SwiftUI
 
 
-## Get stared
+## Get started
 * code is [here.](./EmojiPickerExample/ContentView.swift)
 * clone the repo
 * cd to the repo
